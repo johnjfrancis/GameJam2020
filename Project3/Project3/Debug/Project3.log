@@ -1,0 +1,13 @@
+﻿  Game.cpp
+c:\users\shane\source\repos\project3\project3\game.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\shane\source\repos\project3\project3\game.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\shane\source\repos\project3\project3\game.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\shane\source\repos\project3\project3\game.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\shane\source\repos\project3\project3\game.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\shane\source\repos\project3\project3\game.cpp(111): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  TextDrawer.cpp
+c:\users\shane\source\repos\project3\project3\textdrawer.cpp(8): warning C4018: '<': signed/unsigned mismatch
+c:\users\shane\source\repos\project3\project3\textdrawer.cpp(64): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Project3.vcxproj -> C:\Users\Shane\source\repos\Project3\Debug\Project3.exe
